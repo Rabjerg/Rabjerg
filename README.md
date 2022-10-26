@@ -1,0 +1,2 @@
+- I’m @Rabjerg a seasoned 🐧 Linux consultant and Trainer from Germany 🇩🇪. 
+- Enjoyer of Python, microcontrollers, tinkering, Hardware hacks, SLES, Arch Linux and lately NixOS. 
